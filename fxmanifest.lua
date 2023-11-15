@@ -10,4 +10,3 @@ files {
 
 }
 
-ui_page 'html/index.html'
